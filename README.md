@@ -1,5 +1,5 @@
 # Data Dictionary — Groceries Dataset
-**สมาชิก:** นายธเนศพล ประภาศิริสุลี 6609611998
+**สมาชิก:** นายธเนศพล ประภาศิริสุลี 6609611998   
 **แหล่งที่มา:** Kaggle — Groceries Dataset (Market Basket Data)  
 **จำนวนสินต้า:** 167 columns  
 
