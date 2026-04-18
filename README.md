@@ -1,5 +1,5 @@
 # Data Dictionary — Groceries Dataset
-
+**สมาชิก:** นายธเนศพล ประภาศิริสุลี 6609611998
 **แหล่งที่มา:** Kaggle — Groceries Dataset (Market Basket Data)  
 **จำนวนสินต้า:** 167 columns  
 
@@ -57,56 +57,56 @@
 | 48 | dishes | Numeric (Binary Integer) | ข้อมูลการซื้อจาน/ภาชนะ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
 | 49 | dog food | Numeric (Binary Integer) | ข้อมูลการซื้ออาหารสุนัข: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
 | 50 | domestic eggs | Numeric (Binary Integer) | ข้อมูลการซื้อไข่ไก่: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 51 | female sanitary products | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์สุขอนามัยสตรี: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 52 | finished products | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อสินค้าสำเร็จรูปอื่นๆ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 53 | fish | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อปลาสด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 54 | flour | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อแป้งสาลี: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 55 | flower (seeds) | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเมล็ดพันธุ์ดอกไม้: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 56 | flower soil/fertilizer | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อดิน/ปุ๋ยสำหรับปลูกต้นไม้: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 57 | frankfurter | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อไส้กรอก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 58 | frozen chicken | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อไก่แช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 59 | frozen dessert | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อของหวานแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 60 | frozen fish | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อปลาแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 61 | frozen fruits | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลไม้แช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 62 | frozen meals | Numeric (Binary Integer) | Feature | ข้อมูลการซื้ออาหารแช่แข็งสำเร็จรูป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 63 | frozen potato products | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์มันฝรั่งแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 64 | frozen vegetables | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผักแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 65 | fruit/vegetable juice | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อน้ำผลไม้/น้ำผัก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 66 | grapes | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อองุ่น: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 67 | hair spray | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อสเปรย์จัดแต่งผม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 68 | ham | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อแฮม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 69 | hamburger meat | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเนื้อสำหรับทำเบอร์เกอร์: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 70 | hard cheese | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อชีสแข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 71 | herbs | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อสมุนไพร: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 72 | honey | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อน้ำผึ้ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 73 | house keeping products | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์ทำความสะอาดบ้าน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 74 | hygiene articles | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์สุขอนามัยทั่วไป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 75 | ice cream | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อไอศกรีม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 76 | instant coffee | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อกาแฟสำเร็จรูป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 77 | jam | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อแยม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 78 | ketchup | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อซอสมะเขือเทศ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 79 | kitchen towels | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อกระดาษทิชชูครัว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 80 | kitchen utensil | Numeric (Binary Integer) | Feature | ข้อมูลการซื้ออุปกรณ์ครัว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 81 | light bulbs | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อหลอดไฟ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 82 | liqueur | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อลิเคียว (เหล้าหวาน): `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 83 | liquor | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อสุรา: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 84 | liquor (appetizer) | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเครื่องดื่มแอลกอฮอล์สำหรับเรียกน้ำย่อย: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 85 | liver loaf | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อตับบด (ลิเวอร์โลฟ): `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 86 | long life bakery product | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์เบเกอรีอายุยาว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 87 | make up remover | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผลิตภัณฑ์เช็ดเครื่องสำอาง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 88 | male cosmetics | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเครื่องสำอางสำหรับผู้ชาย: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 89 | margarine | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อมาการีน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 90 | mayonnaise | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อมายองเนส: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 91 | meat | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเนื้อสัตว์ทั่วไป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 92 | meat spreads | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเนื้อสัตว์แบบสเปรด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 93 | misc. beverages | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อเครื่องดื่มเบ็ดเตล็ด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 94 | mustard | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อมัสตาร์ด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 95 | napkins | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อกระดาษเช็ดปาก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 96 | newspapers | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อหนังสือพิมพ์: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 97 | nut snack | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อขนมถั่ว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 98 | nuts/prunes | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อถั่ว/ลูกพรุน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 99 | oil | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อน้ำมันปรุงอาหาร: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
-| 100 | onions | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อหัวหอม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 51 | female sanitary products | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์สุขอนามัยสตรี: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 52 | finished products | Numeric (Binary Integer) | ข้อมูลการซื้อสินค้าสำเร็จรูปอื่น้อ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 53 | fish | Numeric (Binary Integer) | ข้อมูลการซื้อปลาสด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 54 | flour | Numeric (Binary Integer) | ข้อมูลการซื้อแป้งสาลี: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 55 | flower (seeds) | Numeric (Binary Integer) | ข้อมูลการซื้อเม็ดพันธุ์ดอกไม้: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 56 | flower soil/fertilizer | Numeric (Binary Integer) | ข้อมูลการซื้อดิน/ปุ๋ยสำหรับปลูกต้นไม้: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 57 | frankfurter | Numeric (Binary Integer) | ข้อมูลการซื้อไส้กรอก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 58 | frozen chicken | Numeric (Binary Integer) | ข้อมูลการซื้อไก่แช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 59 | frozen dessert | Numeric (Binary Integer) | ข้อมูลการซื้อของหวานแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 60 | frozen fish | Numeric (Binary Integer) | ข้อมูลการซื้อปลาแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 61 | frozen fruits | Numeric (Binary Integer) | ข้อมูลการซื้อผลไม้แช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 62 | frozen meals | Numeric (Binary Integer) | ข้อมูลการซื้ออาหารแช่แข็งสำเร็จรูป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 63 | frozen potato products | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์มันฝรั่งแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 64 | frozen vegetables | Numeric (Binary Integer) | ข้อมูลการซื้อผักแช่แข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 65 | fruit/vegetable juice | Numeric (Binary Integer) | ข้อมูลการซื้อน้ำผลไม้/น้ำผัก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 66 | grapes | Numeric (Binary Integer) | ข้อมูลการซื้อองุ่น: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 67 | hair spray | Numeric (Binary Integer) | ข้อมูลการซื้อสเปรย์จัดแต่งผม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 68 | ham | Numeric (Binary Integer) | ข้อมูลการซื้อแฮม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 69 | hamburger meat | Numeric (Binary Integer) | ข้อมูลการซื้อเนื้อสำหรับทำเบอร์เกอร์: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 70 | hard cheese | Numeric (Binary Integer) | ข้อมูลการซื้อชีสแข็ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 71 | herbs | Numeric (Binary Integer) | ข้อมูลการซื้อสมุนไพร: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 72 | honey | Numeric (Binary Integer) | ข้อมูลการซื้อน้ำผึ้ง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 73 | house keeping products | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์ทำความสะอาดบ้าน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 74 | hygiene articles | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์สุขอนามัยทั่วไป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 75 | ice cream | Numeric (Binary Integer) | ข้อมูลการซื้อไอศกรีม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 76 | instant coffee | Numeric (Binary Integer) | ข้อมูลการซื้อกาแฟสำเร็จรูป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 77 | jam | Numeric (Binary Integer) | ข้อมูลการซื้อแยม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 78 | ketchup | Numeric (Binary Integer) | ข้อมูลการซื้อซอสมะเขือเทศ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 79 | kitchen towels | Numeric (Binary Integer) | ข้อมูลการซื้อกระดาษทิชชูครัว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 80 | kitchen utensil | Numeric (Binary Integer) | ข้อมูลการซื้ออุปกรณ์ครัว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 81 | light bulbs | Numeric (Binary Integer) | ข้อมูลการซื้อหลอดไฟ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 82 | liqueur | Numeric (Binary Integer) | ข้อมูลการซื้อลิเคยว (เหล้าหวาน): `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 83 | liquor | Numeric (Binary Integer) | ข้อมูลการซื้อสุรา: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 84 | liquor (appetizer) | Numeric (Binary Integer) | ข้อมูลการซื้อเครื่องดื่มแอลกอหอล์สำหรับเรียกน้ำย่อย: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 85 | liver loaf | Numeric (Binary Integer) | ข้อมูลการซื้อตับบด (ลิเวอร์โลฟ): `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 86 | long life bakery product | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์เบเกอรีอายุยาว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 87 | make up remover | Numeric (Binary Integer) | ข้อมูลการซื้อผลิตภัณฑ์เช็ดเครื่องสำอาง: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 88 | male cosmetics | Numeric (Binary Integer) | ข้อมูลการซื้อเครื่องสำอางสำหรับผู้ชาย: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 89 | margarine | Numeric (Binary Integer) | ข้อมูลการซื้อมาการีน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 90 | mayonnaise | Numeric (Binary Integer) | ข้อมูลการซื้อมายองเนส: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 91 | meat | Numeric (Binary Integer) | ข้อมูลการซื้อเนื้อสัตว์ทั่วไป: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 92 | meat spreads | Numeric (Binary Integer) | ข้อมูลการซื้อเนื้อสัตว์แบบสเปรด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 93 | misc. beverages | Numeric (Binary Integer) | ข้อมูลการซื้อเครื่องดื่มเบ็ดเตล็ด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 94 | mustard | Numeric (Binary Integer) | ข้อมูลการซื้อมัสตาร์ด: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 95 | napkins | Numeric (Binary Integer) | ข้อมูลการซื้อกระดาษเช็ดปาก: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 96 | newspapers | Numeric (Binary Integer) | ข้อมูลการซื้อหนังสือพิมพ์: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 97 | nut snack | Numeric (Binary Integer) | ข้อมูลการซื้อขนมถั่ว: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 98 | nuts/prunes | Numeric (Binary Integer) | ข้อมูลการซื้อถั่ว/ลูกพรุน: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 99 | oil | Numeric (Binary Integer) | ข้อมูลการซื้อน้ำมันปรุงอาหาร: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
+| 100 | onions | Numeric (Binary Integer) | ข้อมูลการซื้อหัวหอม: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
 | 101 | organic products | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อสินค้าออร์แกนิค: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
 | 102 | organic sausage | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อไส้กรอกออร์แกนิค: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
 | 103 | other vegetables | Numeric (Binary Integer) | Feature | ข้อมูลการซื้อผักอื่นๆ: `1` (ซื้อ) หรือ `0` (ไม่ซื้อ) |
